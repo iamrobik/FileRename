@@ -11,4 +11,3 @@ for filename in os.listdir(directory_path):
         old_file.rename(new_file)
 
 print("All files have been renamed to .txt")
-print("All files have been renamed to .txt")
